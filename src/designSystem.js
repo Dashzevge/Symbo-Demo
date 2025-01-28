@@ -35,7 +35,7 @@ const THEME = {
     },
     '@midnight': {
       background: '#112233',
-      color: 'white'
+      color: 'red'
     }
   }
 }
